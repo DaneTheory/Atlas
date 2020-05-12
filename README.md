@@ -1,9 +1,9 @@
-# Atlas :Fire:
+# Atlas 🔥
 
-> Made with :heart:, :beer:, and :Chocolate Bar: from [DaneTheory](https://DaneTheory.com) to you.
+> Made with :heart:, :beer:, and 🍫 from [DaneTheory](https://DaneTheory.com) to you.
 
 
-## :Earth: TOC
+## 🌎 TOC
 
   - INFO
   - TODOS
@@ -11,23 +11,23 @@
   - SCRIPTS
 
 
-## :Space Invader: INFO
+## 👾 INFO
 
 _Experimental hackery, witchcraft :SPARKLES:, and general confusion awaits ye inside. **Beware the Cave of Caerbannog**_
 
 
-## :WRITING HAND: TODOS 
+## ✍️ TODOS 
 
 - [:X:] Write Todos
 - [:WHITE HEAVY CHECK MARK:] Cook an awesome breakfast this morning
 - [:X:] EVERYTHING
 
 
-## :Toolbox: INSTALLATION
+## 🧰 INSTALLATION
 
 
 
-## SCRIPTS
+## 📟 SCRIPTS
 
 ### `yarn tasks`
   
