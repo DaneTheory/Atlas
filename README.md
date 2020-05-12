@@ -1,6 +1,6 @@
 # Atlas
-
-> More experimental hackery and withcraft at [DaneTheory](https://DaneTheory.com).
+> With :heart: and :beer: from [DaneTheory](https://DaneTheory.com) to you.
+__Experimental hackery, witchcraft, and general confusion awaits ye inside. Beware the Cave of Caerbannog__
 
 TODO: EVERYTHING
 

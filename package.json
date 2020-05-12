@@ -28,5 +28,8 @@
   },
   "ntl": {
     "runner": "yarn"
+  },
+  "installConfig": {
+    "pnp": true
   }
 }
