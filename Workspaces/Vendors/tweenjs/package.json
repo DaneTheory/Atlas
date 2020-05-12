@@ -1,0 +1,14 @@
+{
+  "name": "@atlas/vendors-tweenjs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./index.js",
+  "module": "./src/main.js",
+  "private": false,
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}

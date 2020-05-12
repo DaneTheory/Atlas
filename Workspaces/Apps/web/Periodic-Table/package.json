@@ -1,0 +1,21 @@
+{
+  "name": "@atlas/periodic-table",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "dependencies": {
+    "@atlas/periodic-table-data": "^1.0.0",
+    "@atlas/vendors-threejs": "^1.0.0",
+    "@atlas/vendors-tweenjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "poi": "^12.8.0"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}

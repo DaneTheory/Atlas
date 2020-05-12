@@ -1,0 +1,32 @@
+{
+  "name": "@atlas/monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "Workspaces/DataStores/*",
+    "Workspaces/Libs/*",
+    "Workspaces/Vendors/*",
+    "Workspaces/Loggers/*",
+    "Workspaces/Apps/web/*",
+    "Workspaces/Apps/*"
+  ],
+  "scripts": {
+    "test:devo": "ultra --pretty --color --raw --filter '@atlas/loggers-devo' -r test",
+    "test": "ultra --pretty --color --raw -r test",
+    "dev": "ultra --pretty --color -r dev",
+    "start": "ultra --pretty --color --silent -r start",
+    "build": "ultra --pretty --color --raw -r build",
+    "tasks:devo": "ultra --pretty --color --raw --filter '@atlas/loggers-devo' -r ntl -D -m -s Infinity -e 'tasks' 'tasks:*'",
+    "tasks": "ultra --color --raw ntl -D -m -s Infinity -e 'tasks' 'tasks:*'"
+  },
+  "devDependencies": {
+    "bolt": "^0.24.5",
+    "ntl": "^5.0.0",
+    "oao": "^1.8.0",
+    "ultra-runner": "^3.2.2"
+  },
+  "ntl": {
+    "runner": "yarn"
+  }
+}

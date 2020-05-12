@@ -1,0 +1,14 @@
+{
+  "name": "@atlas/periodic-table-data",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": false,
+  "main": "./index.js",
+  "module": "./src/main.js",
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}
