@@ -6,10 +6,10 @@
 
 ### TOC 🌎
 
- - [Info](#info)
- - [Todos](#todos)
- - [Installation](#installation)
- - [Scripts](#scripts)
+ - [INFO](#info-)
+ - [TODOS](#todos-)
+ - [INSTALLATION](#installation-)
+ - [SCRIPTS](#scripts-)
 
 ---
 
