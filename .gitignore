@@ -115,4 +115,7 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
+# yarn v1
+.pnp*
+.pnp/
 .ultra.cache.*
