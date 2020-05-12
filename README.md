@@ -5,10 +5,10 @@
 
 ## TOC 🌎
 
-  - INFO
-  - TODOS
-  - INSTALLATION
-  - SCRIPTS
+ - [INFO](#INFO)
+ - [TODOS](#TODOS)
+ - [INSTALLATION](#INSTALLATION)
+ - [SCRIPTS](#SCRIPTS)
 
 
 ### INFO 👾
@@ -18,9 +18,9 @@ _Experimental hackery, witchcraft :SPARKLES:, and general confusion awaits ye in
 
 ### TODOS ✍️
 
-- [:X:] Write Todos
-- [:WHITE HEAVY CHECK MARK:] Cook an awesome breakfast this morning
-- [:X:] EVERYTHING
+- [ ❌ ] Write Todos
+- [ ✅ ] Cook an awesome breakfast this morning
+- [ ❌ ] EVERYTHING
 
 
 ### INSTALLATION 🧰
