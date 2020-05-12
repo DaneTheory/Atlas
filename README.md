@@ -36,6 +36,5 @@ _Experimental hackery, witchcraft :SPARKLES:, and general confusion awaits ye in
 #### SCRIPTS 📟
 
   ##### `yarn tasks`
-  
-  ```Launches an interactive prompt with all available scripts listed. Select, then execute. Multi-selection and previously selected/executed scripts functionality support provided.```
+   - Launches an interactive prompt with all available scripts listed. Select, then execute. Multi-selection and previously selected scripts support provided.
 
