@@ -3,7 +3,7 @@ dist
 
 .pnp.*
 
-.ultra.cache.json
+.ultra.*
 
-yarn-error.log
+*.log
 
