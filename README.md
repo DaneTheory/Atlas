@@ -1,15 +1,35 @@
-# Atlas
-> With :heart: and :beer: from [DaneTheory](https://DaneTheory.com) to you.
-__Experimental hackery, witchcraft, and general confusion awaits ye inside. Beware the Cave of Caerbannog__
+# Atlas :Fire:
 
-TODO: EVERYTHING
+> Made with :heart:, :beer:, and :Chocolate Bar: from [DaneTheory](https://DaneTheory.com) to you.
 
-## Project Scripts
 
-### `npm run build`
+## :Earth: TOC
 
-Build app for production to `./dist` folder.
+  - INFO
+  - TODOS
+  - INSTALLATION
+  - SCRIPTS
 
-### `npm run dev`
 
-Start a dev server to preview your app.
+## :Space Invader: INFO
+
+_Experimental hackery, witchcraft :SPARKLES:, and general confusion awaits ye inside. **Beware the Cave of Caerbannog**_
+
+
+## :WRITING HAND: TODOS 
+
+- [:X:] Write Todos
+- [:WHITE HEAVY CHECK MARK:] Cook an awesome breakfast this morning
+- [:X:] EVERYTHING
+
+
+## :Toolbox: INSTALLATION
+
+
+
+## SCRIPTS
+
+### `yarn tasks`
+  
+  - Launches an interactive prompt with all available scripts listed. Select, then execute. Multi-selection and previously selected/executed scripts functionality support provided.
+
